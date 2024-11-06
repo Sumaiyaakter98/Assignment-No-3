@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    @apply bg-red-600 sm:bg-purple-900 md:bg-yellow-500 lg:bg-blue-700 xl:bg-green-500   md:mx-auto px-2  ;
+}
